@@ -38,9 +38,13 @@ document.addEventListener('DOMContentLoaded', function () {
 // 5. How many variables are declared?
 // i think 5
 // 6. How many function calls do you see?
-// about 12 
+// about 13 
 
 // 7. List the parameters that you see.
-m 
+//    12
 
 // What do you see? What can you learn from the above code?
+
+// i know that the eventListener is waiting  for the dom to load 
+// then I see that variables are declared in a function that also a parameter in the eventListener 
+//  witch tells me a function  and also be a parameter
