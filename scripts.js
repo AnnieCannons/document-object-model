@@ -41,6 +41,6 @@ document.addEventListener('DOMContentLoaded', function () {
 // about 12 
 
 // 7. List the parameters that you see.
-
+m 
 
 // What do you see? What can you learn from the above code?
