@@ -48,7 +48,7 @@ const addButton = document.getElementById('addButton');
 
 // 6. How many function calls do you see?
 
-// 6. One function call
+// 6. 3 function calls
 
 
 // 7. List the parameters that you see.
