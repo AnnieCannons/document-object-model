@@ -4,7 +4,7 @@
 //Three
 
 // 2. What is the relationship between the div with the class of todo-section and the list element with the text of "Reading"?
-//parent child
+//grandchild
 
 // 3. What is the relationship between the div with the class of image-gallery and the html element?
 //parent grandchild
