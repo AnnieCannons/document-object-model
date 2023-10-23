@@ -51,7 +51,14 @@ document.addEventListener('DOMContentLoaded', function () {
 // 3 function calls
 
 // 7. List the parameters that you see.
+// ('DOMContentLoaded', function () {
+    // const addButton = document.getElementById('addButton');
+    // const newTaskInput = document.getElementById('newTask');
+    // const taskList = document.getElementById('taskList');
 
+    // addButton.addEventListener('click', function () {
+    //     const taskText = newTaskInput.value;
 
 // What do you see? 
 // What can you learn from the above code?
+// that the user is able to input data and by clicking the button, the task list becomes updated by appending the newly inputted task.
